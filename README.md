@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... samehdh44@gmail.com
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... i'm half finnish
+- ⚡ Fun fact: ... i love celery
