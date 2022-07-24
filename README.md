@@ -1,6 +1,6 @@
 ### Here is what i'm working on 👋
 
-<!--
+
 
 Here are some ideas to get you started:
 
@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... samehdh44@gmail.com
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... i'm half finnish
--->
