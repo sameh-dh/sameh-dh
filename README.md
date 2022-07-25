@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <img width="40" height="40" alt="express" src="./icons/express-original.svg"/>
 <img width="40" height="40" alt="mysql" src="./icons/mysql-plain-wordmark.svg"/>
 <img width="40" height="40" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
-<img width="40" height="40" alt="bash" src="./icons/bash-original.svg"/>
 </p>
 
 
