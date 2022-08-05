@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... samehdh44@gmail.com
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... i love celery
-- 😌 the secret of patience 
 
 <p>
 <img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
