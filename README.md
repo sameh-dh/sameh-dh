@@ -1,6 +1,7 @@
 ### Here is what i'm working on 👋
 
 
+<img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47hmor9ysq922u2k67xe3ucv51ktwtpi8n9ibvkm8j&rid=giphy.gif&ct=g" width="480" height="270"/>
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Full Stack Projects .
@@ -36,7 +37,6 @@ Here are some ideas to get you started:
 <!-- github-git -->
 <img width="40" height="40" alt="git" src="./icons/git-plain.svg"/>
 </p>
-<img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47hmor9ysq922u2k67xe3ucv51ktwtpi8n9ibvkm8j&rid=giphy.gif&ct=g" width="480" height="270"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameh-dh&hide=issues&show_icons=true)
 
