@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <!-- github-git -->
 <img width="40" height="40" alt="git" src="./icons/git-plain.svg"/>
 </p>
-<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"></a></p>
+<img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"></a></p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameh-dh&hide=issues&show_icons=true)
