@@ -1,7 +1,7 @@
 ### Here is what i'm working on 👋
 
 
-<img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47hmor9ysq922u2k67xe3ucv51ktwtpi8n9ibvkm8j&rid=giphy.gif&ct=g" width="480" height="270"/>
+<img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47hmor9ysq922u2k67xe3ucv51ktwtpi8n9ibvkm8j&rid=giphy.gif&ct=g" width="480" height="270"/>
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Full Stack Projects .
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <p>
 <!-- languages -->
 
-<img  alt="dart" width="40" height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"/> 
+<img  alt="dart" width="40" height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" /> 
 <img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
 <img width="40" height="40" alt="typescript" src="./icons/typescript-plain.svg"/>
 <img width="40" height="40" alt="HTML5" src="./icons/html5-plain.svg"/>
