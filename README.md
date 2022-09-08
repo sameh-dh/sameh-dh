@@ -25,11 +25,6 @@ Here are some ideas to get you started:
 <h1>
   i'm a react.js fangirl, but i do some other stuff too :hammer:
 </h1>
-
-## Tech Stack
-
-<br />
-
 <!-- languages -->
 
 <img  alt="dart" width="40" height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" /> 
