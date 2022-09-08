@@ -1,7 +1,7 @@
 ## HELLO 👋
 
 
-<img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47hmor9ysq922u2k67xe3ucv51ktwtpi8n9ibvkm8j&rid=giphy.gif&ct=g" width="450" height="250"/>
+<img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47hmor9ysq922u2k67xe3ucv51ktwtpi8n9ibvkm8j&rid=giphy.gif&ct=g" width="450" height="250"/><br /><br />
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Full Stack Projects .
