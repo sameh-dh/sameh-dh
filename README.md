@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... i love celery
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameh-dh&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="sameh-dh Github Stats">
-<br />
-
-
 
 
 
@@ -54,6 +50,10 @@ Here are some ideas to get you started:
 
 
 
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameh-dh&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="sameh-dh Github Stats">
+<br />
+</div>
 
 <!-- **![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameh-dh&hide=issues&show_icons=true) -->
 
