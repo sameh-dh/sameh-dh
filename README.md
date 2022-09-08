@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 <p>
 <!-- languages -->
-<img style="margin-left:50%;" alt="dart" width="40" height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"/> 
+<img style="color:blue;text-align:center"; alt="dart" width="40" height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"/> 
 <img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
 <img width="40" height="40" alt="typescript" src="./icons/typescript-plain.svg"/>
 <img width="40" height="40" alt="HTML5" src="./icons/html5-plain.svg"/></br>
