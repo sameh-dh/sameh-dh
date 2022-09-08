@@ -15,22 +15,23 @@ Here are some ideas to get you started:
 <img  alt="dart" width="40" height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"/> 
 <img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
 <img width="40" height="40" alt="typescript" src="./icons/typescript-plain.svg"/>
-<img width="40" height="40" alt="HTML5" src="./icons/html5-plain.svg"/>
+<img width="40" height="40" alt="HTML5" src="./icons/html5-plain.svg"/></br>
 <!-- styling -->
 <img width="40" height="40" alt="CSS3" src="./icons/css3-plain.svg"/>
 <img width="40" height="40" alt="sass" src="./icons/sass-original.svg"/>
-<img width="40" height="40" alt="bootstrap" src="./icons/bootstrap-plain.svg"/>
+<img width="40" height="40" alt="bootstrap" src="./icons/bootstrap-plain.svg"/></br>
 <!-- frontend -->
 <img width="40" height="40" alt="react" src="./icons/react-original.svg"/>
 <img width="40" height="40" alt="vuejs" src="./icons/vuejs-plain.svg"/>
-<img  alt="flutter" width="40" height="40"  src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
+<img  alt="flutter" width="40" height="40"  src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/></br>
 <!-- Backend -->
 <img width="40" height="40" alt="nodejs" src="./icons/nodejs-plain-wordmark.svg"/>
-<img width="40" height="40" alt="express" src="./icons/express-original.svg"/>
+<img width="40" height="40" alt="express" src="./icons/express-original.svg"/></br>
 <!-- Daatabases -->
 <img width="40" height="40" alt="mysql" src="./icons/mysql-plain-wordmark.svg"/>
 <img width="40" height="40" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
-<img  alt="firebase" width="40" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/> 
+<img  alt="firebase" width="40" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/> </br>
+<!-- github-git -->
 <img width="40" height="40" alt="git" src="./icons/git-plain.svg"/>
 </p>
 
