@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 
 
 <div align="center">
+<h1>
+  i'm a react.js fangirl, but i do some other stuff too :hammer:
+</h1>
 
 ## Tech Stack
 
