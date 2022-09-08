@@ -12,10 +12,12 @@ Here are some ideas to get you started:
 
 <p>
 <!-- languages -->
-<img style="color:blue;text-align:center"; alt="dart" width="40" height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"/> 
+<div style="margin-left:500px;">
+<img  alt="dart" width="40" height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"/> 
 <img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
 <img width="40" height="40" alt="typescript" src="./icons/typescript-plain.svg"/>
 <img width="40" height="40" alt="HTML5" src="./icons/html5-plain.svg"/></br>
+</div>
 <!-- styling -->
 <img width="40" height="40" alt="CSS3" src="./icons/css3-plain.svg"/>
 <img width="40" height="40" alt="sass" src="./icons/sass-original.svg"/>
