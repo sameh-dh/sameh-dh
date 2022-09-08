@@ -1,7 +1,7 @@
 ### HELLO 👋
 
 
-<img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47hmor9ysq922u2k67xe3ucv51ktwtpi8n9ibvkm8j&rid=giphy.gif&ct=g" width="480" height="270"/>
+<img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47hmor9ysq922u2k67xe3ucv51ktwtpi8n9ibvkm8j&rid=giphy.gif&ct=g" width="480" height="270"/><br /><br /><br />
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Full Stack Projects .
@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 
 
 
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameh-dh&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="sameh-dh Github Stats">
+
+</div><br /><br />
 
 
 
@@ -50,10 +54,6 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameh-dh&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="sameh-dh Github Stats">
-<br />
-</div>
 
 <!-- **![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameh-dh&hide=issues&show_icons=true) -->
 
