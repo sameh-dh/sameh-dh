@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 <p>
 <!-- languages -->
-<img  alt="dart" width="40" height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"/> 
+<img style="margin-left:50%;" alt="dart" width="40" height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"/> 
 <img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
 <img width="40" height="40" alt="typescript" src="./icons/typescript-plain.svg"/>
 <img width="40" height="40" alt="HTML5" src="./icons/html5-plain.svg"/></br>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img  alt="flutter" width="40" height="40"  src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/></br>
 <!-- Backend -->
 <img width="40" height="40" alt="nodejs" src="./icons/nodejs-plain-wordmark.svg"/>
-<img width="40" height="40" alt="express" src="./icons/express-original.svg"/></br>
+<img width="40" height="40" alt="express" src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/5b/99/f3/5b99f3b7-6cf1-e454-3248-7648295762d7/source/256x256bb.jpg"/></br>
 <!-- Daatabases -->
 <img width="40" height="40" alt="mysql" src="./icons/mysql-plain-wordmark.svg"/>
 <img width="40" height="40" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
