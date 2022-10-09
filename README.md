@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img width="40" height="40" alt="CSS3" src="./icons/css3-plain.svg"/>
 <img width="40" height="40" alt="sass" src="./icons/sass-original.svg"/>
 <img width="40" height="40" alt="bootstrap" src="./icons/bootstrap-plain.svg"/>
-<img width="40" height="40" alt="bootstrap" src="https://yt3.ggpht.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s900-c-k-c0x00ffffff-no-rj"/></br>
+<img width="40" height="40" alt="bootstrap" src="https://o.remove.bg/downloads/9a6404c1-0cdc-4418-a23e-843e8db2927b/channels4_profile-removebg-preview.png"/></br>
 <!-- frontend -->
 <img width="40" height="40" alt="react" src="./icons/react-original.svg"/>
 <img width="40" height="40" alt="vuejs" src="./icons/vuejs-plain.svg"/>
