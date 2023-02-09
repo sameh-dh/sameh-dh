@@ -12,10 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... i love celery
 
 ## 
-
 <!-- <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sameh-dh&hide=issues&show_icons=true" alt="sameh-dh Github Stats">
-
 </div> -->
 <div align="center">
 <h1>
