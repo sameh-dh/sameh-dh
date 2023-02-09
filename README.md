@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 <br />
 
 
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameh-dh&hide=issues&show_icons=true" alt="sameh-dh Github Stats">
-
-</div><br />
+<br />
 
 
 <div align="center">
