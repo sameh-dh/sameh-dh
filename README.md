@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... i love celery
 
 ## 
-<!-- <div align="center">
+ <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sameh-dh&hide=issues&show_icons=true" alt="sameh-dh Github Stats">
-</div> -->
+</div> 
 <div align="center">
 <h1>
   i'm a react.js fangirl, but i do some other stuff too :hammer:
