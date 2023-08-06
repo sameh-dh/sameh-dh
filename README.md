@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Full Stack Projects .
-- 🌱 I’m currently learning ... React.js
+- 🌱 I’m currently learning ... c#
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... samehdh44@gmail.com
 - 😄 Pronouns: ... She/Her
@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 </div> 
 <div align="center">
 <h1>
-  i'm a react.js fangirl, but i do some other stuff too :hammer:
+  Technologies:
 </h1>
  </br>
 <!-- languages -->
 
-<img  alt="dart" width="40" height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" /> 
+<img  alt="dart" width="40" height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"  title="dart"/> 
 <img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
 <img width="40" height="40" alt="typescript" src="./icons/typescript-plain.svg"/>
 <img width="40" height="40" alt="HTML5" src="./icons/html5-plain.svg"/> 
