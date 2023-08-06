@@ -6,14 +6,13 @@
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Full Stack Projects .
 - 🌱 I’m currently learning ... c#
-- 💬 Ask me about ... Anything
+- 💬 Ask me about ... .Net 
 - 📫 How to reach me: ... samehdh44@gmail.com
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... i love celery
 
 ## 
  <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameh-dh&hide=issues&show_icons=true" alt="sameh-dh Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameh-dh&hide=issues&show_icons=true" alt="sameh-dh Github Stats" title = "stats are not the final result they are part of the progress" >
 </div> 
 <div align="center">
 <h1>
