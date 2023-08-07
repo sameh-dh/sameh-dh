@@ -3,9 +3,8 @@
 <h3 align="center">A passionate C# Developer</h3>
 
 <img src="./icons/giphy.gif" align="right" 
- style="
-border-radius:20px;
-"/>
+ style="border-radius:20px;height:50px"
+/>
 
 - 🔭 I’m currently working on **c# Projects**
 
