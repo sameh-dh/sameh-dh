@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sameh</h1>
 <h3 align="center">A passionate C# Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameh-dh&label=Profile%20views&color=0e75b6&style=flat" alt="sameh-dh" /> </p>
+
 
 - 🔭 I’m currently working on **c# Projects**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **samehdh44@gmail.com**
 
-<img src="./icons/giphy.gif"/>
+<img src="./icons/giphy.gif" align="right"/>
 
 
   <h3 align="center" >Connect with me:</h3>
@@ -97,5 +97,5 @@
 
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameh-dh&label=Profile%20views&color=0e75b6&style=flat" alt="sameh-dh" /> </p>
 
