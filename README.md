@@ -26,14 +26,14 @@
   <p align="center" >
 <!-- C sharp -->
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="padding:30px;"/> </a> 
-<!-- Js-->
+<!-- Js
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="padding:30px;"/>
-  </a> 
-<!-- Ts -->
+  </a> -->
+<!-- Ts 
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin:30px;"/>
- </a>
+ </a>-->
 
 
 <!-- Databases -->
@@ -46,11 +46,11 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
-<!-- Firebase -->
+<!-- Firebase 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a>
-  <br/>
+  <br/>-->
 
 <!-- Front End And Frameworks -->
 
@@ -67,7 +67,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
-
+ <br/>
 <!-- Tools -->
    <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
