@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sameh</h1>
 <img src="./icons/giphy.gif" align="center" 
- style="border-radius:100px; width:100%"
+ style="border-radius:100px; width:100vw;"
 />
 <h3 align="center">A passionate C# Developer</h3>
 
