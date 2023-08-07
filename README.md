@@ -77,13 +77,13 @@
   </p>
 <!--STATS -->
 
-<p align="center"> 
+<p align="left"> 
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameh-dh&hide=issues&show_icons=true) 
   
   </p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sameh-dh&show_icons=true&locale=en&layout=compact" alt="sameh-dh" /> </p>
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sameh-dh&show_icons=true&locale=en&layout=compact" alt="sameh-dh" /> </p>
 
 
 
