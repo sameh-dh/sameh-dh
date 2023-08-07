@@ -38,14 +38,14 @@
 
 <!-- Databases -->
 
-<!-- Mongodb -->
+<!-- Mongodb
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-<!-- mysql -->
+  </a> -->
+<!-- mysql 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
+  </a>-->
 <!-- Firebase 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
@@ -63,10 +63,10 @@
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" title="Angular" alt="angular" width="40" height="40"/>
   </a>
 
- <!-- React -->
+ <!-- React 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
+  </a> -->
  <br/>
 <!-- Tools -->
    <!-- Git -->
