@@ -14,11 +14,7 @@
 
 - 📫 How to reach me **samehdh44@gmail.com**
 
-
-  <div >
-  <img src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen> 
-  </img>
-  </div>
+<iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p>
 
 
   <h3 align="center" >Connect with me:</h3>
@@ -47,7 +43,7 @@
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
  </a>
-
+ <br/>
 
 <!-- Databases -->
 
