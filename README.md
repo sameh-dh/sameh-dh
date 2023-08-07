@@ -92,4 +92,4 @@
  style="border-radius:100px; width:80vw;"
 />
 
-## Thank you for your visit Have a nice day ✨
+<h1 align="center">Thank you for your visit Have a nice day ✨</h1>    
