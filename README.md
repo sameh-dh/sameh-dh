@@ -1,5 +1,5 @@
 
-<img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47hmor9ysq922u2k67xe3ucv51ktwtpi8n9ibvkm8j&rid=giphy.gif&ct=g" width="450" height="250"/><br /><br />
+
 <h1 align="center">Hi 👋, I'm Sameh</h1>
 <h3 align="center">A passionate C# Developer</h3>
 
