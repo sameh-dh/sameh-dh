@@ -2,14 +2,21 @@
 
 
 <img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47hmor9ysq922u2k67xe3ucv51ktwtpi8n9ibvkm8j&rid=giphy.gif&ct=g" width="450" height="250"/><br /><br />
+<h1 align="center">Hi 👋, I'm Sameh</h1>
+<h3 align="center">A passionate C# Developer</h3>
 
-[Here are some ideas to get you started:
-- 🔭 I’m currently working on Full Stack Projects .
-- 🌱 I’m currently learning ... c#
-- 💬 Ask me about ... .Net 
-- 📫 How to reach me: ... samehdh44@gmail.com
-- 😄 Pronouns: ... She/Her
-](https://butterflydevelopers.vercel.app/)
+- 🌱 I’m currently learning **.net**
+
+- 👨‍💻 All of my projects are available at [https://butterflydevelopers.vercel.app/](https://butterflydevelopers.vercel.app/)
+
+- 💬 Ask me about **C#**
+
+- 📫 How to reach me **samehdh44@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 ## 
  <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sameh-dh&hide=issues&show_icons=true" alt="sameh-dh Github Stats" title = "stats are not the final result they are part of the progress" >
