@@ -77,9 +77,13 @@
   </p>
 <!--STATS -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameh-dh&hide=issues&show_icons=true) 
+<p align="left"> 
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameh-dh&hide=issues&show_icons=true) 
+  
+  </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameh-dh&show_icons=true&locale=en&layout=compact" alt="sameh-dh" align="right"/>
+<p align="right"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sameh-dh&show_icons=true&locale=en&layout=compact" alt="sameh-dh" /> </p>
 
 
 
