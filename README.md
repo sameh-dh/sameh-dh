@@ -11,10 +11,6 @@
 
 - 📫 How to reach me **samehdh44@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 ## 
  <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sameh-dh&hide=issues&show_icons=true" alt="sameh-dh Github Stats" title = "stats are not the final result they are part of the progress" >
