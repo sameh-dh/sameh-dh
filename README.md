@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **samehdh44@gmail.com**
 
-<img src=""/>
+<img src="./icons/giphy.gif"/>
 
 
   <h3 align="center" >Connect with me:</h3>
