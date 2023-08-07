@@ -22,30 +22,8 @@
  </br>
 <!-- languages -->
 
-<img  alt="dart" width="40" height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"  title="dart"/> 
-<img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
-<img width="40" height="40" alt="typescript" src="./icons/typescript-plain.svg"/>
-<img width="40" height="40" alt="HTML5" src="./icons/html5-plain.svg"/> 
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<!-- styling -->
-<img width="40" height="40" alt="CSS3" src="./icons/css3-plain.svg"/>
-<img width="40" height="40" alt="sass" src="./icons/sass-original.svg"/>
-<img width="40" height="40" alt="bootstrap" src="./icons/bootstrap-plain.svg"/>
-</br>
-<!-- frontend -->
-<img width="40" height="40" alt="react" src="./icons/react-original.svg"/>
-<img width="40" height="40" alt="vuejs" src="./icons/vuejs-plain.svg"/>
-<img  alt="flutter" width="40" height="40"  src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
-<!-- Backend -->
-<img width="40" height="40" alt="nodejs" src="./icons/nodejs-plain-wordmark.svg"/>
-<img width="40" height="40" alt="express" src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/5b/99/f3/5b99f3b7-6cf1-e454-3248-7648295762d7/source/256x256bb.jpg"/>
-<!-- Daatabases -->
-<img width="40" height="40" alt="mysql" src="./icons/mysql-plain-wordmark.svg"/>
-<img width="40" height="40" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
-<img  alt="firebase" width="40" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
-<!-- github-git -->
-<img width="40" height="40" alt="git" src="./icons/git-plain.svg"/>
-</div>
 
 
 
