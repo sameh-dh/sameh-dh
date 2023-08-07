@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sameh</h1>
-<img src="./icons/giphy.gif" align="center" 
- style="border-radius:100px; width:80vw;"
-/>
+
 <h3 align="center">A passionate C# Developer</h3>
 
 
@@ -82,16 +80,11 @@
 <br/>
 
 <!-- Tools -->
-
+   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" padding="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
+ 
   </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameh-dh&hide=issues&show_icons=true) 
@@ -101,4 +94,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameh-dh&label=Profile%20views&color=0e75b6&style=flat" alt="sameh-dh" /> </p>
-
+<img src="./icons/giphy.gif" align="center" 
+ style="border-radius:100px; width:80vw;"
+/>
