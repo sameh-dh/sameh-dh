@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **samehdh44@gmail.com**
 
-<iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p>
+<img src=""/>
 
 
   <h3 align="center" >Connect with me:</h3>
