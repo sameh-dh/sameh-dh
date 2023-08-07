@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 💗, I'm Sameh</h1>
 
-<h3 align="center">A passionate C# Developer</h3>
+<h3 align="center">A passionate C# Developer 🌟</h3>
 
 
 
@@ -91,3 +91,5 @@
 <img src="./icons/giphy.gif" align="center" 
  style="border-radius:100px; width:80vw;"
 />
+
+## Thank you for your visit Have a nice day ✨
