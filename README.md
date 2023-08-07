@@ -21,22 +21,19 @@
 <p align="center">
 <a href="https://linkedin.com/in/sameh dhamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameh dhamer" height="30" width="40" /></a>
 </p>
-<!-- Programing Languages -->
+
 <h3 align="center">Languages and Tools:</h3>
 
 ##
 
 
-
+<!-- Programing Languages -->
+<p align="center" >
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a> 
+
+
 <!-- Databases -->
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
@@ -58,13 +55,18 @@
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" title="Angular" alt="angular" width="40" height="40"/>
  </a>
 <a  href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" padding="40"/> </a> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /> </a> 
 <!-- Tools -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a> 
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" padding="40"/> 
 </a> 
  </p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameh-dh&hide=issues&show_icons=true) 
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameh-dh&show_icons=true&locale=en&layout=compact" alt="sameh-dh" />
 
 
