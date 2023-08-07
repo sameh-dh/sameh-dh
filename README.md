@@ -4,7 +4,7 @@
 
 <img src="./icons/giphy.gif" align="right" 
  style="
-border-radius=20px;
+border-radius:20px;
 "/>
 
 - 🔭 I’m currently working on **c# Projects**
