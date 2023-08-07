@@ -14,7 +14,12 @@
 
 - 📫 How to reach me **samehdh44@gmail.com**
 
-  <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p>
+
+  <div >
+  <img src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen> 
+  </img>
+  </div>
+
 
   <h3 align="center" >Connect with me:</h3>
 
@@ -58,7 +63,7 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a>
-
+  <br/>
 
 <!-- Front End And Frameworks -->
 
@@ -67,7 +72,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /> </a> 
 
 <!-- Angular -->
-  <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" title="Angular" alt="angular" width="40" height="40"/>
   </a>
 
@@ -75,6 +80,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
+<br/>
 
 <!-- Tools -->
 
