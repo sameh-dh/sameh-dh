@@ -43,8 +43,14 @@
   </a>
 <!-- Ts -->
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin:40px;"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="Typescript" width="40" height="40" style="margin:40px;"/>
  </a>
+
+ <!--Dart -->
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.svgrepo.com/show/353631/dart.svg" alt="Dart" title="Dart" width="40" height="40" style="margin:40px;"/>
+ </a>
+
 
 
 
