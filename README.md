@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 💗, I'm Sameh</h1>
+<h1 align="center">Hi 👋, I'm Sameh</h1>
 
 <h3 align="center">A passionate JS Developer 🌟</h3>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **JS Projects**
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **JS in Depth**
 
 - 👨‍💻 All of my projects are available at ([portfolio](https://portfolio-sameh.vercel.app/))
 
