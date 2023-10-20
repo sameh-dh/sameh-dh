@@ -51,7 +51,7 @@
 <!-- Front End And Frameworks -->
  <!-- Bootstrap  -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40"/> 
+  <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" style="padding:30px;"/> 
   </a>
 
 
@@ -66,18 +66,18 @@
 
  <!-- React  -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react and react-native" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react and react-native" width="40" height="40" style="padding:30px;"/> 
   </a>
 
 <!-- Vuejs  -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/452130/vue.svg" alt="vuejs" title="vuejs" width="40" height="40"/> 
+  <img src="https://www.svgrepo.com/show/452130/vue.svg" alt="vuejs" title="vuejs" width="40" height="40" style="padding:30px;"/> 
   </a>
 
   
 <!-- Flutter  -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> https://www.svgrepo.com/show/353751/flutter.svg
-  <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="vuejs" title="Flutter" width="40" height="40"/> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="vuejs" title="Flutter" width="40" height="40" style="padding:30px;"/> 
   </a>
 
   
@@ -85,22 +85,22 @@
 
 <!-- Mongodb -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="padding:30px;"/> 
   </a> 
 <!-- mysql  -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="padding:30px;"/> 
   </a>
 <!-- Firebase  -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="padding:30px;"/> 
   </a>
   <br/>
   
 <!-- Tools -->
    <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="padding:30px;"/>
   </a> 
  <br/>
   </p>
