@@ -25,33 +25,33 @@
 <!-- Programing Languages -->
   <p align="center" >
 <!-- C sharp -->
-<!--   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="padding:30px;"/> </a>  -->
+<!--   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin:30px;"/> </a>  -->
 
 <!-- Html -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="Html" title="Html" width="40" height="40" style="padding:30px;"/>
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="Html" title="Html" width="40" height="40" style="margin:30px;"/>
   </a>
 
   <!-- CSS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css" title="Css" width="40" height="40" style="padding:30px;"/>
+  <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css" title="Css" width="40" height="40" style="margin:30px;"/>
   </a>
     
 <!-- Js -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40" style="padding:30px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40" style="margin:30px;"/>
   </a>
 <!-- Ts -->
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin:30px;"/>
  </a>
-<br />
+
 
 
 <!-- Front End And Frameworks -->
  <!-- Bootstrap  -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" style="padding:30px;"/> 
+  <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" style="margin:30px;"/> 
   </a>
 
 
@@ -66,18 +66,18 @@
 
  <!-- React  -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react and react-native" width="40" height="40" style="padding:30px;"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react and react-native" width="40" height="40" style="margin:30px;"/> 
   </a>
 
 <!-- Vuejs  -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/452130/vue.svg" alt="vuejs" title="vuejs" width="40" height="40" style="padding:30px;"/> 
+  <img src="https://www.svgrepo.com/show/452130/vue.svg" alt="vuejs" title="vuejs" width="40" height="40" style="margin:30px;"/> 
   </a>
 
   
 <!-- Flutter  -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="vuejs" title="Flutter" width="40" height="40" style="padding:30px;"/> 
+  <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="vuejs" title="Flutter" width="40" height="40" style="margin:30px;"/> 
   </a>
 
   <br />
@@ -85,38 +85,41 @@
 
 <!-- Mongodb -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="padding:30px;"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin:30px;"/> 
   </a> 
 <!-- mysql  -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="padding:30px;"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin:30px;"/> 
   </a>
 <!-- Firebase  -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="40" height="40" style="padding:30px;"/> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="40" height="40" style="margin:30px;"/> 
   </a>
-
+<!-- Nodejs  -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="Nodejs" title=" Nodejs" width="40" height="40" style="margin:30px;"/> 
+  </a>
  <br /> 
 <!-- Tools -->
    <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="padding:30px;"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin:30px;"/>
   </a> 
 <!-- Taskade  -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/354436/taskade-icon.svg" alt="Taskade" title="Taskade" width="40" height="40" style="padding:30px;"/> 
+  <img src="https://www.svgrepo.com/show/354436/taskade-icon.svg" alt="Taskade" title="Taskade" width="40" height="40" style="margin:30px;"/> 
   </a>
   <!-- Trello  -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/475688/trello-color.svg" alt="Trello" title="Trello" width="40" height="40" style="padding:30px;"/> 
+  <img src="https://www.svgrepo.com/show/475688/trello-color.svg" alt="Trello" title="Trello" width="40" height="40" style="margin:30px;"/> 
   </a>
   <!-- Slack  -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/452102/slack.svg" alt="Slack" title="Slack" width="40" height="40" style="padding:30px;"/> 
+  <img src="https://www.svgrepo.com/show/452102/slack.svg" alt="Slack" title="Slack" width="40" height="40" style="margin:30px;"/> 
   </a>
   <!-- Figma  -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma" title="Figma" width="40" height="40" style="padding:30px;"/> 
+  <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma" title="Figma" width="40" height="40" style="margin:30px;"/> 
   </a>
   
  <br/>
