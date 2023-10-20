@@ -41,11 +41,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40" style="padding:30px;"/>
   </a>
-<!-- Ts 
+<!-- Ts -->
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin:30px;"/>
- </a>-->
-
+ </a>
+<br />
 
 
 <!-- Front End And Frameworks -->
@@ -80,7 +80,7 @@
   <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="vuejs" title="Flutter" width="40" height="40" style="padding:30px;"/> 
   </a>
 
-  
+  <br />
 <!-- Databases -->
 
 <!-- Mongodb -->
@@ -96,7 +96,7 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="40" height="40" style="padding:30px;"/> 
   </a>
 
-  
+ <br /> 
 <!-- Tools -->
    <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
