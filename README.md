@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 👨‍💻 All of my projects are available at [https://butterflydevelopers.vercel.app/](https://butterflydevelopers.vercel.app/)
+- 👨‍💻 All of my projects are available at ([portfolio](https://portfolio-sameh.vercel.app/))
 
 - 💬 Ask me about **JS**
 
@@ -38,19 +38,19 @@
 
 <!-- Databases -->
 
-<!-- Mongodb 
+<!-- Mongodb -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> -->
-<!-- mysql 
+  </a> 
+<!-- mysql  -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> -->
-<!-- Firebase  
+  </a>
+<!-- Firebase  -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a>
-  <br/>-->
+  <br/>
 
 <!-- Front End And Frameworks -->
 
@@ -65,9 +65,19 @@
 
  <!-- React  -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react and react-native" width="40" height="40"/> 
   </a>
 
+<!-- Vuejs  -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/452130/vue.svg" alt="vuejs" title="vuejs" width="40" height="40"/> 
+  </a>
+
+  
+<!-- Flutter  -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> https://www.svgrepo.com/show/353751/flutter.svg
+  <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="vuejs" title="Flutter" width="40" height="40"/> 
+  </a>
 <!-- Tools -->
    <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
