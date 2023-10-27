@@ -144,7 +144,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameh-dh&label=Profile%20views&color=0e75b6&style=flat" alt="sameh-dh" /> </p>
 <img src="./icons/giphy.gif" align="center" 
- style="border-radius:100px; width:80vw;"
+ style="border-radius:100px; width:80vw;" autoplay
 />
 
 <h1 align="center">Thank you for your visit Have a nice day ✨</h1>    
