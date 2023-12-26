@@ -60,6 +60,10 @@
   <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" style="margin:40px;"/> 
   </a>
 
+ <!-- Tailwind -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind" title="Tailwind" width="40" height="40" style="margin:40px;"/> 
+  </a>
 
 <!-- .Net 
  <a  href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
@@ -73,6 +77,11 @@
  <!-- React  -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react and react-native" width="40" height="40" style="margin:40px;"/> 
+  </a>
+
+ <!-- Redux  -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/452093/redux.svg" alt="redux" title="Redux" width="40" height="40" style="margin:40px;"/> 
   </a>
 
 <!-- Vuejs  -->
@@ -126,6 +135,11 @@
   <!-- Figma  -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma" title="Figma" width="40" height="40" style="margin:40px;"/> 
+  </a>
+
+   <!-- Miro  -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/473728/miro.svg" alt="Miro" title="Miro" width="40" height="40" style="margin:40px;"/> 
   </a>
   
 
