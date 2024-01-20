@@ -151,7 +151,8 @@
   <img src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg" alt="Adobe Illustrator" title="Adobe Illustrator" width="40" height="40" style="margin:40px;"/> 
   </a>
  
-    <!-- Adobe Photoshop -->
+  <!-- Adobe Photoshop -->
+    
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/452149/adobe-photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop" width="40" height="40" style="margin:40px;"/> 
   </a>
