@@ -117,6 +117,10 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40" style="margin:40px;"/>
   </a> 
+  
+  <br /> 
+  <br />
+  
 <!-- Taskade  -->
 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
