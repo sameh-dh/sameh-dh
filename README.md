@@ -75,6 +75,7 @@
   </a>-->
 
  <!-- React  -->
+ 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react and react-native" width="40" height="40" style="margin:40px;"/> 
   </a>
@@ -145,6 +146,7 @@
 
 
   <!-- Adobe Illustrator  -->
+  
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg" alt="Adobe Illustrator" title="Adobe Illustrator" width="40" height="40" style="margin:40px;"/> 
   </a>
