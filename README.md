@@ -42,14 +42,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40" style="margin:40px;"/>
   </a>
 <!-- Ts -->
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<!--  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="Typescript" width="40" height="40" style="margin:40px;"/>
- </a>
+ </a> -->
 
  <!--Dart -->
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+ <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
  <img src="https://www.svgrepo.com/show/353631/dart.svg" alt="Dart" title="Dart" width="40" height="40" style="margin:40px;"/>
- </a>
+ </a>  -->
 
 
 
@@ -85,15 +85,15 @@
   </a>
 
 <!-- Vuejs  -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+ <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/452130/vue.svg" alt="vuejs" title="vuejs" width="40" height="40" style="margin:40px;"/> 
-  </a>
+  </a> -->
 
   
 <!-- Flutter  -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+ <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="vuejs" title="Flutter" width="40" height="40" style="margin:40px;"/> 
-  </a>
+  </a> -->
  <br /> 
   <br />
 <!-- Databases -->
@@ -132,16 +132,28 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/452102/slack.svg" alt="Slack" title="Slack" width="40" height="40" style="margin:40px;"/> 
   </a>
+
+    <!-- Miro  -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/473728/miro.svg" alt="Miro" title="Miro" width="40" height="40" style="margin:40px;"/> 
+  </a>
+  
   <!-- Figma  -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma" title="Figma" width="40" height="40" style="margin:40px;"/> 
   </a>
 
-   <!-- Miro  -->
+
+  <!-- Adobe Illustrator  -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/473728/miro.svg" alt="Miro" title="Miro" width="40" height="40" style="margin:40px;"/> 
+  <img src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg" alt="Adobe Illustrator" title="Adobe Illustrator" width="40" height="40" style="margin:40px;"/> 
   </a>
-  
+ 
+    <!-- Adobe Photoshop -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/452149/adobe-photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop" width="40" height="40" style="margin:40px;"/> 
+  </a>
+
 
   </p>
 <!--STATS -->
