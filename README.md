@@ -117,10 +117,12 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40" style="margin:40px;"/>
   </a> 
 <!-- Taskade  -->
+
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/354436/taskade-icon.svg" alt="Taskade" title="Taskade" width="40" height="40" style="margin:40px;"/> 
   </a>
   <!-- Trello  -->
+  
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/475688/trello-color.svg" alt="Trello" title="Trello" width="40" height="40" style="margin:40px;"/> 
   </a>
@@ -129,12 +131,14 @@
   <img src="https://www.svgrepo.com/show/452102/slack.svg" alt="Slack" title="Slack" width="40" height="40" style="margin:40px;"/> 
   </a>
 
-    <!-- Miro  -->
+ <!-- Miro  -->
+    
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/473728/miro.svg" alt="Miro" title="Miro" width="40" height="40" style="margin:40px;"/> 
   </a>
   
   <!-- Figma  -->
+  
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma" title="Figma" width="40" height="40" style="margin:40px;"/> 
   </a>
