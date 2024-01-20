@@ -90,11 +90,7 @@
   </a> -->
 
   
-<!-- Flutter  -->
- <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="vuejs" title="Flutter" width="40" height="40" style="margin:40px;"/> 
-  </a> -->
- <br /> 
+  <br /> 
   <br />
 <!-- Databases -->
 
