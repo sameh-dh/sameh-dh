@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JS in Depth**
 
-- 👨‍💻 All of my projects are available at ([portfolio](https://portfolio-sameh.vercel.app/))
+- 👨‍💻 All of my projects are available at ([portfolio]())
 
 - 💬 Ask me about **JS**
 
