@@ -165,10 +165,11 @@
   </p>
 <!--STATS -->
 
-<p align="center"> 
+
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameh-dh&show_icons=true&theme=synthwave)  
-  </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/sameh-dh/github-readme-stats)
 
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sameh-dh&show_icons=true&locale=en&layout=compact" alt="sameh-dh" /> </p>
 
@@ -184,7 +185,6 @@
 
 `SHOW_TOTAL_CODE_TIME`       flag can be set to `False` to hide *Code Time*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
