@@ -165,13 +165,16 @@
   </p>
 <!--STATS -->
 
-
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameh-dh&show_icons=true&theme=synthwave)  
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameh-dh&show_icons=true&theme=synthwave&card_width=320)  <br/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameh-dh&theme=synthwave&card_width=320)](https://github.com/sameh-dh/github-readme-stats)  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/sameh-dh/github-readme-stats)
 
-<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sameh-dh&show_icons=true&locale=en&layout=compact" alt="sameh-dh" /> </p>
+<a href="https://github.com/sameh-dh/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sameh-dh&theme=synthwave" />
+</a>
+<a href="https://github.com/sameh-dh/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameh-dh&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
+</a>
 
 
 
