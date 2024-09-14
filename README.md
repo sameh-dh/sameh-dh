@@ -165,10 +165,9 @@
   </p>
 <!--STATS -->
 
-<p align="left"> 
+<p align="center"> 
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameh-dh&hide=issues&show_icons=true) 
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameh-dh&show_icons=true&theme=synthwave)  
   </p>
 
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sameh-dh&show_icons=true&locale=en&layout=compact" alt="sameh-dh" /> </p>
@@ -177,23 +176,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameh-dh&label=Profile%20views&color=0e75b6&style=flat" alt="sameh-dh" /> </p>
 <img src="./icons/giphy.gif" align="center" 
- style="border-radius:100px; width:80vw;"
+ style="border-radius:100px; width:80vw;" autoplay=true
 />
 
-**I'm an early 🐤** 
-```text
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
 
-```
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.3%20million%20Lines%20of%20code-blue)
+
 
 `SHOW_TOTAL_CODE_TIME`       flag can be set to `False` to hide *Code Time*
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C438%20hrs%2054%20mins-blue)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameh-dh&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h1 align="center">Thank you for your visit Have a nice day ✨</h1>    
