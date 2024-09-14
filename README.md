@@ -168,25 +168,24 @@
   
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameh-dh&show_icons=true&theme=synthwave&card_width=320)  <br/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameh-dh&theme=synthwave&card_width=320)](https://github.com/sameh-dh/github-readme-stats)  -->
 
-
+<p align="center">
 <a href="https://github.com/sameh-dh/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sameh-dh&theme=synthwave" />
 </a>
 <a href="https://github.com/sameh-dh/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameh-dh&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
 </a>
+  </p>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameh-dh&label=Profile%20views&color=0e75b6&style=flat" alt="sameh-dh" /> </p>
-<img src="./icons/giphy.gif" align="center" 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sameh-dh&label=Profile%20views&color=0e75b6&style=flat" alt="sameh-dh" /> </p>
+<!-- <img src="./icons/giphy.gif" align="center" 
  style="border-radius:100px; width:80vw;" autoplay=true
-/>
+/> -->
 
 
 
 
-`SHOW_TOTAL_CODE_TIME`       flag can be set to `False` to hide *Code Time*
 
 
 
