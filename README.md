@@ -193,7 +193,7 @@
 `SHOW_TOTAL_CODE_TIME`       flag can be set to `False` to hide *Code Time*
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C438%20hrs%2054%20mins-blue)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameh-dh&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameh-dh&show_icons=true&theme=synthwave)
 
 
 <h1 align="center">Thank you for your visit Have a nice day ✨</h1>    
